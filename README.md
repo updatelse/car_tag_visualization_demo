@@ -1,0 +1,2 @@
+# car_tag_visualization_demo
+读取车牌，使用opencv一下显示9张，然后将不合格的标注车牌通过点击鼠标移动到单独的文件夹
